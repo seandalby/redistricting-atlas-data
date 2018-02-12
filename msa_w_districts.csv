@@ -1,0 +1,111 @@
+statefp,district,cbsa_name,cbsa_code
+13,3,Atlanta,12060
+13,4,Atlanta,12060
+13,5,Atlanta,12060
+13,6,Atlanta,12060
+13,7,Atlanta,12060
+13,9,Atlanta,12060
+13,10,Atlanta,12060
+13,11,Atlanta,12060
+13,13,Atlanta,12060
+13,14,Atlanta,12060
+48,3,Dallas,19100
+48,4,Dallas,19100
+48,5,Dallas,19100
+48,6,Dallas,19100
+48,11,Dallas,19100
+48,12,Dallas,19100
+48,13,Dallas,19100
+48,24,Dallas,19100
+48,25,Dallas,19100
+48,26,Dallas,19100
+48,30,Dallas,19100
+48,32,Dallas,19100
+48,33,Dallas,19100
+26,8,Detroit,19820
+26,9,Detroit,19820
+26,10,Detroit,19820
+26,11,Detroit,19820
+26,12,Detroit,19820
+26,13,Detroit,19820
+26,14,Detroit,19820
+48,2,Houston,26420
+48,7,Houston,26420
+48,8,Houston,26420
+48,9,Houston,26420
+48,10,Houston,26420
+48,14,Houston,26420
+48,18,Houston,26420
+48,22,Houston,26420
+48,29,Houston,26420
+48,36,Houston,26420
+6,23,Los Angeles,31080
+6,25,Los Angeles,31080
+6,26,Los Angeles,31080
+6,27,Los Angeles,31080
+6,28,Los Angeles,31080
+6,29,Los Angeles,31080
+6,30,Los Angeles,31080
+6,32,Los Angeles,31080
+6,33,Los Angeles,31080
+6,34,Los Angeles,31080
+6,35,Los Angeles,31080
+6,37,Los Angeles,31080
+6,38,Los Angeles,31080
+6,39,Los Angeles,31080
+6,40,Los Angeles,31080
+6,43,Los Angeles,31080
+6,44,Los Angeles,31080
+6,45,Los Angeles,31080
+6,46,Los Angeles,31080
+6,47,Los Angeles,31080
+6,48,Los Angeles,31080
+6,49,Los Angeles,31080
+12,18,Miami,33100
+12,20,Miami,33100
+12,21,Miami,33100
+12,22,Miami,33100
+12,23,Miami,33100
+12,24,Miami,33100
+12,25,Miami,33100
+12,26,Miami,33100
+12,27,Miami,33100
+4,1,Phoenix,38060
+4,3,Phoenix,38060
+4,4,Phoenix,38060
+4,5,Phoenix,38060
+4,6,Phoenix,38060
+4,7,Phoenix,38060
+4,8,Phoenix,38060
+4,9,Phoenix,38060
+6,8,Riverside,40140
+6,27,Riverside,40140
+6,31,Riverside,40140
+6,35,Riverside,40140
+6,36,Riverside,40140
+6,39,Riverside,40140
+6,41,Riverside,40140
+6,42,Riverside,40140
+6,50,Riverside,40140
+6,49,San Diego,41740
+6,50,San Diego,41740
+6,51,San Diego,41740
+6,52,San Diego,41740
+6,53,San Diego,41740
+6,2,San Francisco,41860
+6,5,San Francisco,41860
+6,9,San Francisco,41860
+6,11,San Francisco,41860
+6,12,San Francisco,41860
+6,13,San Francisco,41860
+6,14,San Francisco,41860
+6,15,San Francisco,41860
+6,17,San Francisco,41860
+6,18,San Francisco,41860
+53,1,Seattle,42660
+53,2,Seattle,42660
+53,6,Seattle,42660
+53,7,Seattle,42660
+53,8,Seattle,42660
+53,9,Seattle,42660
+53,10,Seattle,42660

@@ -7,9 +7,50 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 4,7,Phoenix,38060,1,1
 4,8,Phoenix,38060,1,1
 4,9,Phoenix,38060,1,1
+6,23,Los Angeles,31080,1,1
+6,25,Los Angeles,31080,1,1
+6,26,Los Angeles,31080,1,1
+6,27,Los Angeles,31080,1,1
+6,28,Los Angeles,31080,1,1
+6,29,Los Angeles,31080,1,1
+6,30,Los Angeles,31080,1,1
+6,32,Los Angeles,31080,1,1
+6,33,Los Angeles,31080,1,1
+6,34,Los Angeles,31080,1,1
+6,35,Los Angeles,31080,1,1
+6,37,Los Angeles,31080,1,1
+6,38,Los Angeles,31080,1,1
+6,39,Los Angeles,31080,1,1
+6,40,Los Angeles,31080,1,1
+6,43,Los Angeles,31080,1,1
+6,44,Los Angeles,31080,1,1
+6,45,Los Angeles,31080,1,1
+6,46,Los Angeles,31080,1,1
+6,47,Los Angeles,31080,1,1
+6,48,Los Angeles,31080,1,1
+6,49,Los Angeles,31080,1,1
+6,8,Riverside,40140,1,1
+6,27,Riverside,40140,1,1
+6,31,Riverside,40140,1,1
+6,35,Riverside,40140,1,1
+6,36,Riverside,40140,1,1
+6,39,Riverside,40140,1,1
+6,41,Riverside,40140,1,1
+6,42,Riverside,40140,1,1
+6,50,Riverside,40140,1,1
+6,1,Sacramento,40900,1,1
+6,3,Sacramento,40900,1,1
+6,4,Sacramento,40900,1,1
+6,6,Sacramento,40900,1,1
+6,7,Sacramento,40900,1,1
+6,9,Sacramento,40900,1,1
+6,49,San Diego,41740,1,1
+6,50,San Diego,41740,1,1
+6,51,San Diego,41740,1,1
+6,52,San Diego,41740,1,1
+6,53,San Diego,41740,1,1
 6,2,San Francisco,41860,1,1
 6,5,San Francisco,41860,1,1
-6,8,Riverside,40140,1,1
 6,9,San Francisco,41860,1,1
 6,11,San Francisco,41860,1,1
 6,12,San Francisco,41860,1,1
@@ -18,41 +59,16 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 6,15,San Francisco,41860,1,1
 6,17,San Francisco,41860,1,1
 6,18,San Francisco,41860,1,1
-6,23,Los Angeles,31080,1,1
-6,25,Los Angeles,31080,1,1
-6,26,Los Angeles,31080,1,1
-6,27,Los Angeles,31080,1,1
-6,27,Riverside,40140,1,1
-6,28,Los Angeles,31080,1,1
-6,29,Los Angeles,31080,1,1
-6,30,Los Angeles,31080,1,1
-6,31,Riverside,40140,1,1
-6,32,Los Angeles,31080,1,1
-6,33,Los Angeles,31080,1,1
-6,34,Los Angeles,31080,1,1
-6,35,Los Angeles,31080,1,1
-6,35,Riverside,40140,1,1
-6,36,Riverside,40140,1,1
-6,37,Los Angeles,31080,1,1
-6,38,Los Angeles,31080,1,1
-6,39,Los Angeles,31080,1,1
-6,39,Riverside,40140,1,1
-6,40,Los Angeles,31080,1,1
-6,41,Riverside,40140,1,1
-6,42,Riverside,40140,1,1
-6,43,Los Angeles,31080,1,1
-6,44,Los Angeles,31080,1,1
-6,45,Los Angeles,31080,1,1
-6,46,Los Angeles,31080,1,1
-6,47,Los Angeles,31080,1,1
-6,48,Los Angeles,31080,1,1
-6,49,Los Angeles,31080,1,1
-6,49,San Diego,41740,1,1
-6,50,Riverside,40140,1,1
-6,50,San Diego,41740,1,1
-6,51,San Diego,41740,1,1
-6,52,San Diego,41740,1,1
-6,53,San Diego,41740,1,1
+6,17,San Jose,41940,1,1
+6,18,San Jose,41940,1,1
+6,19,San Jose,41940,1,1
+6,20,San Jose,41940,1,1
+8,1,Denver,19740,1,1
+8,2,Denver,19740,1,1
+8,4,Denver,19740,1,1
+8,5,Denver,19740,1,1
+8,6,Denver,19740,1,1
+8,7,Denver,19740,1,1
 12,18,Miami,33100,1,1
 12,20,Miami,33100,1,1
 12,21,Miami,33100,1,1
@@ -62,6 +78,12 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 12,25,Miami,33100,1,1
 12,26,Miami,33100,1,1
 12,27,Miami,33100,1,1
+12,5,Orlando,36740,1,1
+12,7,Orlando,36740,1,1
+12,8,Orlando,36740,1,1
+12,9,Orlando,36740,1,1
+12,10,Orlando,36740,1,1
+12,11,Orlando,36740,1,1
 13,3,Atlanta,12060,1,1
 13,4,Atlanta,12060,1,1
 13,5,Atlanta,12060,1,1
@@ -85,6 +107,14 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 17,11,Chicago,16980,0,1
 17,14,Chicago,16980,0,1
 17,16,Chicago,16980,0,1
+17,12,St. Louis,41180,0,1
+17,13,St. Louis,41180,0,1
+17,15,St. Louis,41180,0,1
+18,4,Indianapolis,26900,1,1
+18,5,Indianapolis,26900,1,1
+18,6,Indianapolis,26900,1,1
+18,7,Indianapolis,26900,1,1
+18,9,Indianapolis,26900,1,1
 24,3,DC,47900,0,1
 24,4,DC,47900,0,1
 24,5,DC,47900,0,1
@@ -113,11 +143,15 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 27,6,Minneapolis,33460,0,1
 27,7,Minneapolis,33460,0,1
 27,8,Minneapolis,33460,0,1
-34,1,Philadelphia,37980,0,1
+29,4,Kansas City,28140,0,1
+29,5,Kansas City,28140,0,1
+29,6,Kansas City,28140,0,1
+29,1,St. Louis,41180,0,1
+29,2,St. Louis,41180,0,1
+29,3,St. Louis,41180,0,1
+29,8,St. Louis,41180,0,1
 34,2,NYC,35620,0,1
-34,2,Philadelphia,37980,0,1
 34,3,NYC,35620,0,1
-34,3,Philadelphia,37980,0,1
 34,4,NYC,35620,0,1
 34,5,NYC,35620,0,1
 34,6,NYC,35620,0,1
@@ -127,6 +161,9 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 34,10,NYC,35620,0,1
 34,11,NYC,35620,0,1
 34,12,NYC,35620,0,1
+34,1,Philadelphia,37980,0,1
+34,2,Philadelphia,37980,0,1
+34,3,Philadelphia,37980,0,1
 36,1,NYC,35620,0,1
 36,2,NYC,35620,0,1
 36,3,NYC,35620,0,1
@@ -146,6 +183,27 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 36,17,NYC,35620,0,1
 36,18,NYC,35620,0,1
 36,19,NYC,35620,0,1
+37,5,Charlotte,16740,0,1
+37,8,Charlotte,16740,0,1
+37,9,Charlotte,16740,0,1
+37,10,Charlotte,16740,0,1
+37,12,Charlotte,16740,0,1
+39,1,Cincinnati,17140,0,1
+39,2,Cincinnati,17140,0,1
+39,8,Cincinnati,17140,0,1
+39,4,Cleveland,17460,1,1
+39,7,Cleveland,17460,1,1
+39,9,Cleveland,17460,1,1
+39,11,Cleveland,17460,1,1
+39,14,Cleveland,17460,1,1
+39,16,Cleveland,17460,1,1
+39,3,Columbus,18140,1,1
+39,4,Columbus,18140,1,1
+39,12,Columbus,18140,1,1
+39,15,Columbus,18140,1,1
+41,1,Portland,38900,0,1
+41,3,Portland,38900,0,1
+41,5,Portland,38900,0,1
 42,1,Philadelphia,37980,0,1
 42,2,Philadelphia,37980,0,1
 42,6,Philadelphia,37980,0,1
@@ -153,29 +211,42 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 42,8,Philadelphia,37980,0,1
 42,13,Philadelphia,37980,0,1
 42,16,Philadelphia,37980,0,1
-48,2,Houston,26420,1,1
+48,10,Austin,12420,1,1
+48,17,Austin,12420,1,1
+48,21,Austin,12420,1,1
+48,25,Austin,12420,1,1
+48,27,Austin,12420,1,1
+48,31,Austin,12420,1,1
+48,35,Austin,12420,1,1
 48,3,Dallas,19100,1,1
 48,4,Dallas,19100,1,1
 48,5,Dallas,19100,1,1
 48,6,Dallas,19100,1,1
+48,11,Dallas,19100,1,1
+48,12,Dallas,19100,1,1
+48,13,Dallas,19100,1,1
+48,24,Dallas,19100,1,1
+48,25,Dallas,19100,1,1
+48,26,Dallas,19100,1,1
+48,30,Dallas,19100,1,1
+48,32,Dallas,19100,1,1
+48,33,Dallas,19100,1,1
+48,2,Houston,26420,1,1
 48,7,Houston,26420,1,1
 48,8,Houston,26420,1,1
 48,9,Houston,26420,1,1
 48,10,Houston,26420,1,1
-48,11,Dallas,19100,1,1
-48,12,Dallas,19100,1,1
-48,13,Dallas,19100,1,1
 48,14,Houston,26420,1,1
 48,18,Houston,26420,1,1
 48,22,Houston,26420,1,1
-48,24,Dallas,19100,1,1
-48,25,Dallas,19100,1,1
-48,26,Dallas,19100,1,1
 48,29,Houston,26420,1,1
-48,30,Dallas,19100,1,1
-48,32,Dallas,19100,1,1
-48,33,Dallas,19100,1,1
 48,36,Houston,26420,1,1
+48,15,San Antonio,41700,1,1
+48,20,San Antonio,41700,1,1
+48,21,San Antonio,41700,1,1
+48,23,San Antonio,41700,1,1
+48,28,San Antonio,41700,1,1
+48,35,San Antonio,41700,1,1
 51,1,DC,47900,0,1
 51,5,DC,47900,0,1
 51,6,DC,47900,0,1
@@ -190,3 +261,20 @@ statefp,district,cbsa_name,cbsa_code,within_state,counter
 53,8,Seattle,42660,1,1
 53,9,Seattle,42660,1,1
 53,10,Seattle,42660,1,1
+55,1,Milwaukee,33340,0,1
+55,4,Milwaukee,33340,0,1
+55,5,Milwaukee,33340,0,1
+55,6,Milwaukee,33340,0,1
+45,5,Charlotte,16740,0,1
+24,08,Baltimore,12580,1,1
+24,01,Baltimore,12580,1,1
+24,05,Baltimore,12580,1,1
+24,02,Baltimore,12580,1,1
+24,07,Baltimore,12580,1,1
+24,03,Baltimore,12580,1,1
+24,04,Baltimore,12580,1,1
+42,09,Pittsburgh,38300,1,1
+42,03,Pittsburgh,38300,1,1
+42,12,Pittsburgh,38300,1,1
+42,18,Pittsburgh,38300,1,1
+42,14,Pittsburgh,38300,1,1

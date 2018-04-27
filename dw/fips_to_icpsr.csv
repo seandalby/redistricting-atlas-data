@@ -1,0 +1,52 @@
+statefp,st_name,STICPSR,state_abbrev
+1,Alabama,41,AL
+2,Alaska,81,AK
+4,Arizona,61,AZ
+5,Arkansas,42,AR
+6,California,71,CA
+8,Colorado,62,CO
+9,Connecticut,1,CT
+10,Delaware,11,DE
+11,District of Columbia,55,DC
+12,Florida,43,FL
+13,Georgia,44,GA
+15,Hawaii,82,HI
+16,Idaho,63,ID
+17,Illinois,21,IL
+18,Indiana,22,IN
+19,Iowa,31,IA
+20,Kansas,32,KS
+21,Kentucky,51,KY
+22,Louisiana,45,LA
+23,Maine,2,ME
+24,Maryland,52,MD
+25,Massachusetts,3,MA
+26,Michigan,23,MI
+27,Minnesota,33,MN
+28,Mississippi,46,MS
+29,Missouri,34,MO
+30,Montana,64,MT
+31,Nebraska,35,NE
+32,Nevada,65,NV
+33,New Hampshire,4,NH
+34,New Jersey,12,NJ
+35,New Mexico,66,NM
+36,New York,13,NY
+37,North Carolina,47,NC
+38,North Dakota,36,ND
+39,Ohio,24,OH
+40,Oklahoma,53,OK
+41,Oregon,72,OR
+42,Pennsylvania,14,PA
+44,Rhode Island,5,RI
+45,South Carolina,48,SC
+46,South Dakota,37,SD
+47,Tennessee,54,TN
+48,Texas,49,TX
+49,Utah,67,UT
+50,Vermont,6,VT
+51,Virginia,40,VA
+53,Washington,73,WA
+54,West Virginia,56,WV
+55,Wisconsin,25,WI
+56,Wyoming,68,WY

@@ -1,4 +1,4 @@
-statefp,st_name,STICPSR,state_abbrev
+statefp,st_name,state_icpsr,state_abbrev
 1,Alabama,41,AL
 2,Alaska,81,AK
 4,Arizona,61,AZ
